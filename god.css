@@ -1,0 +1,198 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color: black;
+	font-family: "input-mono", monospace;
+    font-weight: 100;
+    font-style: normal;
+	color: #6BF216;
+}
+
+h1{
+	text-align: left;
+}
+
+
+
+#back{
+	background-color: black;
+	padding: 15px;
+	margin: 10px;
+}
+
+.nav{
+	color: white;
+	text-decoration: none;
+	float: inherit;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 9px 9px;
+    font-size: 17px;
+	background-color: black;
+	display: inline-block;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+}
+
+li{
+	float:left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+ 
+
+li a:hover {
+  color: red;
+}
+
+
+.foot{
+	text-decoration: none;
+	float: none;
+	background-color: black;
+	text-align: center;
+}
+
+.frog{
+	color: blue;
+	text-decoration: none;
+}
+
+.cookie{
+	background-color: black;
+	margin: 30px;
+	padding: 30px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.morty{
+	width: 900px;
+	border: 0px;
+	align: center;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.rawr{
+	text-align: center;
+}
+
+#contact{
+	text-align: center;
+	align: center;
+}
+
+.norm{
+	text-decoration: none;
+	color: #6BF216;
+	text-decoration: none;
+	color: #6BF216;
+	padding: 20px;
+	margin: 20px;
+	text-size: 40px;
+	text-align: center
+}
+
+.norm:hover{
+	color: red;
+}
+
+
+.imgwid {
+	width: 450px;
+	float: right;
+}
+
+.txt{
+	text-decoration: none;
+	color: #6BF216;
+	padding: 20px;
+}
+
+#fruitbox{
+	padding: 38px;
+	margin: 38px;
+	display: inline-block;
+}
+
+.pears{
+	border: 0px;
+	width: 835px;
+}
+
+.what{
+	width: 232px;
+}
+
+.omg{
+	width: 591px;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
+
+#codeproj{
+	text-align: center;
+}
+
+#about{
+	text-align: center;
+}
+
+.name{
+	text-align: center;
+}
+
+.fish{
+	text-decoration: none;
+	color: red;
+}
+
+.cracker{
+	width  = "1000" 
+	border= "0"
+}
+
+.ocean{
+	float: right;
+	width: 250px;
+}
+
+.dog{
+	width: 200px;
+	float: left;
+}
+
+.cat{
+	float: right;
+	width: 200px;
+}
+
+table {
+	align: center;
+	
+}
+
+.form{
+	border-color: 
+}
